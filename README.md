@@ -14,12 +14,14 @@
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<br/>
 ---
 
 ### 🌱 I’m currently learning ...
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<br />
 ---
 
 ### 💬 Ask me about ...
