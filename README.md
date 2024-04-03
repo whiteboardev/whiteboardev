@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 Stuff I worked with ...
- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 ### 🌱 I’m currently learning ...
 
