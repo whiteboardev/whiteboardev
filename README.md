@@ -4,6 +4,12 @@
 <a href="mailto:whiteboarddev@pm.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="My Email" width="150" height="35">
 </a>
+<a href="https://instagram.com/whiteboarddev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Account" width="150" height="35">
+</a>
+<a href="https://www.tiktok.com/@whiteboarddev">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="My TikTok" width="150" height="35">
+</a>
 
 ### 🔭 Stuff I worked with ...
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
