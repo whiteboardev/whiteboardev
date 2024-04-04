@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### 📫 How to reach me: ...
-<a href="mailto:whiteboarddev@pm.me">
+<a href="mailto:whiteboarddev@pm.me" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="My Email" width="150" height="35">
 </a>
-<a href="https://instagram.com/whiteboarddev">
+<a href="https://instagram.com/whiteboarddev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Account" width="150" height="35">
 </a>
-<a href="https://www.tiktok.com/@whiteboarddev">
+<a href="https://www.tiktok.com/@whiteboarddev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="My TikTok" width="150" height="35">
 </a>
 
