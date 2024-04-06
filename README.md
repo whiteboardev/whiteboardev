@@ -40,8 +40,4 @@ Don't be a stranger feel free to reach out to me.
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <br />
----
 
-### 💬 Ask me about ...
-
-### ⚡ Fun fact: ...
