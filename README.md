@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+A little bit about me..
+
+I build and maintain web applications for 9 years, Bringing forth expertise in design, installation, testing
+and maintenance of web systems. Using JavaScript/TypeScript.
+
+I always open to learn new technologies and improve my skills, looking for new opportunities to learn and grow.
+I love exploring tools that help with daily tasks and improve not only code quality but also developer experience.
+
+Don't be a stranger feel free to reach out to me.
+
 ### 📫 How to reach me: ...
 <a href="mailto:whiteboarddev@pm.me" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="My Email" width="150" height="35">
